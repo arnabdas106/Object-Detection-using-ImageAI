@@ -6,10 +6,10 @@ Install ImageAI and its dependencies
 3. Download the Object Detection model file
 4. Run the sample codes (which is as few as 10 lines)
 Now let’s get started.
-1) Download and install Python 3 from official Python Language website
-https://python.org
-2) Install the following dependencies via pip:
-i. Tensorflow
+#1) Download and install Python 3 from official Python Language website
+#https://python.org
+#2) Install the following dependencies via pip:
+#i. Tensorflow
 pip install tensorflow
 ii. Numpy
 pip install numpy
